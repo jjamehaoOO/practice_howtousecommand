@@ -25,6 +25,11 @@ git push origin "分支名稱" 就代表推到github上
 按new pull request 之後操作步驟
 
 
+之後別人看完PR操作=
+pull下來合併自己本地端後繼續操作
+如pull下來失敗 最快解決方法 = 直接clone下來
+
+
 
 
 
